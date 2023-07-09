@@ -1,11 +1,10 @@
 #from functions import get_todos, write_todos
 import functions
 import time
-# from here I added git
 
-print("hello")
 now = time.strftime("%b %d, %Y %H:%M:%S")
 print("It is", now)
+
 while True:
     # Get user input and strip space chars from it
     user_action = input("Type add, show, edit, complete or exit: ")
