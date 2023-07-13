@@ -1,7 +1,5 @@
-buy new shoes
-all is good
-test2
-test4
-test3
-My newest todo is added
-Last todo
+Buy new shoes
+Pay the bills
+new to do
+new one
+the last todo
